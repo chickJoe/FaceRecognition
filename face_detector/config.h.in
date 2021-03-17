@@ -1,0 +1,7 @@
+#ifndef CONFIG_H_IN
+#define CONFIG_H_IN
+ 
+#define CASCADE_PATH "@XML_PATH@"
+#define TEST_IMAGES_PATH "@TEST_IMAGES_PATH@"
+ 
+#endif // CONFIG_H_IN

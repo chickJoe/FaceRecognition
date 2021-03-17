@@ -1,0 +1,7 @@
+[requires]
+opencv/4.5.1
+jsoncpp/1.9.4
+gtest/cci.20210126
+
+[generators]
+cmake
